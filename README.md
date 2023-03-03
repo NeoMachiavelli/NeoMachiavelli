@@ -9,14 +9,14 @@
 <br><br>
 
 ## Languages and Tools
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=800080)&nbsp;
-![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Haxe](https://img.shields.io/badge/-Haxe-05122A?style=flat&logo=haxe)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=800080&color=gray)&nbsp;
+![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet&color=gray)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=007ACC&color=gray)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=gray)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=gray)&nbsp;
+![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=gray)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=gray)&nbsp;
+![Haxe](https://img.shields.io/badge/-Haxe-05122A?style=flat&logo=haxe&color=gray)&nbsp;
 
 
 <br><br>
