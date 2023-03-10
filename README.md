@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=gray)&nbsp;
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=gray)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=gray)&nbsp;
-![Haxe](https://img.shields.io/badge/-Haxe-05122A?style=flat&logo=haxe&color=gray)&nbsp;
+![Haxe](https://img.shields.io/badge/-Haxe-05122A?style=flat&logo=Haxe&logoColor=ed831f&color=gray)&nbsp;
 
 
 <br><br>
