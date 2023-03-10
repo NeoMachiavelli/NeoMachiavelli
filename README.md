@@ -11,7 +11,7 @@
 ## Languages and Tools
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=800080&color=gray)&nbsp;
 ![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet&color=gray)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby&logoColor=007ACC&color=gray)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby&color=gray)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=gray)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=gray)&nbsp;
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=gray)&nbsp;
