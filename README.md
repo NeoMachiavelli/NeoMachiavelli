@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=NeoMachiavelli&show_icons=true&theme=vision-friendly-dark" alt="NeoMachiavelli "/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=NeoMachiavelli&show_icons=true&theme=vision-friendly-dark" alt="NeoMachiavelli "/>       <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machiavelli&layout=compact&theme=vision-friendly-dark" alt="NeoMachiavelli's most languages"/>
 </p>
